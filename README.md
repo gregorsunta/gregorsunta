@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gr33gYss
+- 👋 Hi, I’m Gregor @gr33gYss
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning HTML, CSS for front web development and C# with unity.
 - 💞️ I’m looking to collaborate on anything that doesnt require too much skill as I am new to the world of programming.
