@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gregor @gr33gYss
 - 👀 I’m interested in web and game development.
-- 🌱 I’m currently learning HTML, CSS for front web development and C# with Unity's game engine.
+- 🌱 I’m currently learning HTML, CSS for front web development and C# with Unity.
 - 💞️ I’m looking to collaborate on anything that doesnt require too much skill as I am new to the world of programming.
 - 📫 How to reach me? 
   -   LinkedIn: https://www.linkedin.com/in/gregor-%C5%A1unta-14681b1b6/
