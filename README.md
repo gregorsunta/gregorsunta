@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gregor @gr33gYss
 - 👀 I’m interested in web and game development.
 - 🌱 I’m currently learning JavaScript for front web development and C# with Unity.
-- 💞️ I’m looking to collaborate on anything
+- 💞️ I’m looking to collaborate on anything.
 - 📫 How to reach me? 
   -   LinkedIn: https://www.linkedin.com/in/gregor-%C5%A1unta-14681b1b6/
   -   E-mail: gresunta@gmail.com
