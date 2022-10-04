@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gregor
-- 👀 I’m interested in web and game development.
+- 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript for front web development.
 - 💞️ I’m looking to collaborate on anything revolving around my mentioned skills
 - 📫 How to reach me? 
