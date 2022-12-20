@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gregor
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning HTML, CSS and JavaScript for front web development.
+- 👀 I’m interested in programming
+- 🌱 I’m an aspiring front-end developer
 - 💞️ I’m looking to collaborate on anything revolving around my mentioned skills
 - 📫 How to reach me? 
   -   LinkedIn: https://www.linkedin.com/in/gregor-%C5%A1unta-14681b1b6/
